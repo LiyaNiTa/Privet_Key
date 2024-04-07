@@ -17,6 +17,8 @@ AllowedIPs = 10.0.0.2/32 #В данном поле указывается раз
 
 Server 9TeQbAALAKubrzi/XyJQFWZBtrSYv9Go/XI/qsZN2XY=
 
+Ip Server 10.0.2.15
+
 
 
 Client SVnpueFZnwST5deVpaVzB+FBPGx3n9tsGtw8GQeNERs=
